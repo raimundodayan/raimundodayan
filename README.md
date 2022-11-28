@@ -6,7 +6,7 @@ Bem-vindo👋
 - 🤔 Estudo PHP e C#
 - 😎 Curso Tecnico Desenvolvimento de sistema
 - ✉ Contato - dayan.alves987@gmail.com
-- :brazil nacionalidade - Brasil
+- :brazil: nacionalidade - Brasil
 
 
 <hr>
