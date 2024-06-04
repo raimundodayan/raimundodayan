@@ -2,9 +2,10 @@ Bem-vindo👋
 
 
 - 👍 Eu tenho 19 anos
-- 👨‍💻 Estudo back-end
-- 🤔 Estudo Javascript e C#
-- 😎 Curso Tecnico Desenvolvimento de sistema
+- 👨‍💻 Estudo Devops 
+- 🤔 Estudo Python, Linux, Rede e Cibersegurança
+- 😎 Curso Tecnico Desenvolvimento de sistema - Etec
+- Cursando Rede de computadores - Senai
 - ✉ Contato - dayan.alves987@gmail.com
 - :brazil: nacionalidade - Brasil
 
