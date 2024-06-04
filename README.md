@@ -5,7 +5,7 @@ Bem-vindo👋
 - 👨‍💻 Estudo Devops 
 - 🤔 Estudando Python, Linux, Rede e Cibersegurança
 - 😎 Curso Tecnico Desenvolvimento de sistema - Etec
-- 😎Cursando Rede de computadores - Senai
+- 😎Cursando Rede de computadores - Senai suiço-Brasileira "Paulo Ernesto Tolle"
 - ✉ Contato - dayan.alves987@gmail.com
 - :brazil: nacionalidade - Brasil
 
