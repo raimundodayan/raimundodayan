@@ -1,11 +1,11 @@
 Bem-vindo👋
 
 
-- 👍 Eu tenho 19 anos
+- 👍 Eu tenho 20 anos
 - 👨‍💻 Estudo Devops 
 - 🤔 Estudo Python, Linux, Rede e Cibersegurança
 - 😎 Curso Tecnico Desenvolvimento de sistema - Etec
-- Cursando Rede de computadores - Senai
+- 😎Cursando Rede de computadores - Senai
 - ✉ Contato - dayan.alves987@gmail.com
 - :brazil: nacionalidade - Brasil
 
