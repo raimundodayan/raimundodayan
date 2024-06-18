@@ -3,7 +3,7 @@ Bem-vindo👋
 
 - 👍 Eu tenho 20 anos
 - 👨‍💻 Estudando Python, Linux, Rede e Cibersegurança
-- 😎 Curso Tecnico Desenvolvimento de sistema - Etec
+- 😎 Curso Tecnico Desenvolvimento de sistema - Etec taoão da serra
 - 😎 Cursando Rede de computadores - Senai Suiço-Brasileira "Paulo Ernesto Tolle"
 - 👨🏼‍🎓 Cursando analise e desenvolvimento de sistema - universidade presbiteriana mackenzie
 - ✉ Contato - dayan.alves987@gmail.com
