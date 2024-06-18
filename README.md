@@ -23,6 +23,7 @@ Bem-vindo👋
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 
    
